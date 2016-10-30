@@ -1,4 +1,4 @@
-﻿## 把我的项目提交到github 中git remote add origin https://github.com/junming4/tptest.git
+﻿## 把我的项目提交到github 中git remote add origin https://github.com/junming4/pythonTest.git
 ## 简介
 ##该项目使用python 中的django框架测试
     - 安装django 步骤 git clone https://github.com/django/django.git
